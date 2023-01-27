@@ -1,4 +1,4 @@
-# Proyecto de paises 
+# Proyecto de paises ::: https://dangarduv2.github.io/ProyectoPaises/
 
 ----------------------------------------------------------------
 ## Objetivo
@@ -17,14 +17,14 @@ su información de paises con siferentes funcionalidades
     > En caso de no encontrar ninguna coincidencia, mostrará un mensaje de error que este desaparecerá al tocar alguna tecla y esperar 1 segundo y medio
      ---------------------------------------------------------------------------- 
 
-![Imagen1](/src/assets/Imagen1.pnG)
+![Imagen1](/src/assets/Imagen1.png)
 En caso que no salga el país buscado en las sugerencias puedes dar click en *[Buscar "xxx"]* o enter para buscar todas las coincidencias
 
-![Imagen2](/src/assets/Imagen2.pnG)
+![Imagen2](/src/assets/Imagen2.png)
 
 *\Caso que no haya coincidencias/*
 
-![Imagen4](/src/assets/Imagen4.pnG)
+![Imagen4](/src/assets/Imagen4.png)
 .
 .
 .
@@ -37,7 +37,7 @@ En caso que no salga el país buscado en las sugerencias puedes dar click en *[B
     > Teniendo unas regiones ya predefinidas como botones
     > Puedes obtener una lista con los paises pertenecientes a esa región
      ---------------------------------------------------------------------------- 
-![Imagen3](/src/assets/Imagen3.pnG)
+![Imagen3](src/assets/Imagen3.png)
 
 .
 .
