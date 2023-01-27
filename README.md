@@ -9,7 +9,7 @@ y para que me sirva de portafolio a la hora de buscar trabajo
 Es una aplicación WEB que se basa en la API de https://restcountries.com/ para explotar 
 su información de paises con siferentes funcionalidades
 
-:rocket:**Funcionalidad Por-Pais** :rocket:
+### :rocket:**Funcionalidad Por-Pais** :rocket:
 
     ---------------------------------------------------------------------------- 
     > Puedes buscar paises por su nombre (Nombres en inglés | España -> Spain |)
@@ -25,13 +25,10 @@ En caso que no salga el país buscado en las sugerencias puedes dar click en *[B
 *\Caso que no haya coincidencias/*
 
 ![Imagen4](/src/assets/Imagen4.png)
-.
-.
-.
-.
-.
-.
-:star: **Funcionalidad Por-Región** :star:
+
+
+
+### :star: **Funcionalidad Por-Región** :star:
 
     ---------------------------------------------------------------------------- 
     > Teniendo unas regiones ya predefinidas como botones
@@ -39,13 +36,8 @@ En caso que no salga el país buscado en las sugerencias puedes dar click en *[B
      ---------------------------------------------------------------------------- 
 ![Imagen3](src/assets/Imagen3.png)
 
-.
-.
-.
-.
-.
-.
-:stars: **Funcionalidad Por-Capital** :stars:
+
+### :stars: **Funcionalidad Por-Capital** :stars:
 
     ---------------------------------------------------------------------------- 
     > Es basicamente lo mismo que Por-Paises pero:
